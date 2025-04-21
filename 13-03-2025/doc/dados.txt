@@ -1,0 +1,8 @@
+https://expo.dev/accounts/victor_alex/projects/13032025/builds/19d4a513-6c35-4b54-80a3-3d1e87a3bd7at
+https://expo.fyi/eas-build-archived
+
+ Using Keystore from configuration: Build Credentials xKcUEOzyHD (default)
+ ompressing project files and uploading to EAS Build. Learn more: https://expo.fyi/eas-build-archive
+ https://expo.dev/accounts/victor_alex/projects/13032025/builds/1e59e4e4-8881-4fde-928b-8b9b3f6f7676
+ https://expo.dev/accounts/victor_alex/settings/billing
+ 
